@@ -1,5 +1,9 @@
-This is my Resume
+This is my Resume 
+<br>
 Add Qualification
-Add Experience 
+<br>
+Add Experience
+<br> 
 Add Working Skill
+<br>
 Created with the help of html and css
