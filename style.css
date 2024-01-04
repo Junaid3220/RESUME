@@ -1,0 +1,51 @@
+#allbrowser {
+    background-color: lightgray;
+    padding: 5px;
+    margin: 0px;
+}
+
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: blue;
+    font-size: 38px;
+    text-transform: uppercase;
+    text-decoration: underline;
+    margin: 10px;
+}
+
+h2 {
+    color: blue;
+    text-transform: uppercase;
+    text-decoration: underline;
+    margin: 4px;
+
+
+}
+
+h3 {
+    text-transform: uppercase;
+    margin: 4px;
+    font-size: 18px;
+}
+
+.same {
+    background-color: white;
+    margin: 10px;
+    padding: 1px;
+}
+
+.sty1 {
+    margin: 10px;
+    padding: 10px;
+}
+
+#id1 {
+    background-color: rgba(190, 160, 140);
+    text-transform: uppercase;
+    text-align: center;
+    padding: 5px;
+    color: white;
+}
